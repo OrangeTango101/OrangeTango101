@@ -6,7 +6,7 @@
   - [Practicing with Python and PyTorch](https://github.com/OrangeTango101/Board_Game)
 
 - <b>Neural Network Classifiers (School Assignment)</b>
-  - [Classifying digits and languages in Python](https://github.com/OrangeTango101/Board_Game)
+  - [Classifying digits and languages in Python](https://github.com/OrangeTango101/Board_Game](https://github.com/OrangeTango101/machinelearning)
 
 <h2>📺 Popular Videos</h2>
 
