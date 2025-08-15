@@ -10,8 +10,8 @@
 
 <h2>📺 Popular Videos</h2>
 
-- [Dexter Clyburn Callahan](https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.youtube.com/watch?v=jX_OnmxQ1YQ))
-- [Cal Men's Ultimate Fall Highlights](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.youtube.com/watch?v=kUU_ST5wW8c))
+- [Dexter Clyburn Callahan](https://www.youtube.com/watch?v=jX_OnmxQ1YQ)
+- [Cal Men's Ultimate Fall Highlights](https://www.youtube.com/watch?v=kUU_ST5wW8c)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -19,17 +19,3 @@
 
 [linkedin]: www.linkedin.com/in/eric-johnson-224b19216
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
