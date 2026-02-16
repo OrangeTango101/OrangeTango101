@@ -1,9 +1,17 @@
 <h1>Hi, I'm Eric!<br/><a href="https://github.com/joshmadakor1">SWE</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Video Editor</a></h1>
 
+
+<h2>📋 My Portfolio:</h2>
+
+- [Eric Johnson](https://orangetango101.github.io/eric-portfolio/)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Building A Board Game</b>
-  - [Practicing with Python and PyTorch](https://github.com/OrangeTango101/Board_Game)
+- <b>Online Board Game</b>
+  - [Building with React and FastAPI](https://orangetango101.github.io/rattle/)
+
+- <b>Author Landing Page</b>
+  - [Practicing Modern React Front-End](https://orangetango101.github.io/greg-site/)
 
 - <b>Neural Network Classifiers (School Assignment)</b>
   - [Classifying digits and languages in Python](https://github.com/OrangeTango101/machinelearning)
