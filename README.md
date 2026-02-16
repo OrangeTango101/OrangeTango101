@@ -2,8 +2,7 @@
 
 
 <h2>📋 My Portfolio:</h2>
-
-- [Eric Johnson](https://orangetango101.github.io/eric-portfolio/)
+[Eric Johnson](https://orangetango101.github.io/eric-portfolio/)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
